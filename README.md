@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BeMaximal
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on DjangoProject on different themes.
+- 🌱 I’m currently learning in Python Backend Direction.
+- 💞️ I’m looking to collaborate on python project on different themes.
 - 📫 How to reach me BeMaximal.
 
 <!--
